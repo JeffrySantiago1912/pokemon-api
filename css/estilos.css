@@ -1,0 +1,23 @@
+.fondo{
+    background-image: url("https://adnfriki.com/wp-content/uploads/2012/09/fondos-android-pikachu-3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.h1{
+   
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    width: 105%;
+    
+}
+
+.form-control{
+
+    height: 50px;
+    text-align: center;
+    width: 105%;
+}
